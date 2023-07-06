@@ -151,3 +151,4 @@ local autoDamage
              objectives = nil 
          end) 
      end 
+ warn("Script fully loaded!")
