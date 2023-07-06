@@ -2005,15 +2005,7 @@ local enemyDamagedEffect = require(staterPlayerScriptsFolder.LocalPetHandler.
  warn("Script fully loaded!")
  warn("script not loaded, re join the game")
  
- -- game 
+
  	
- 		task. leave(function()
- 		--leave the game 
- local ANIME_FIGHTERS_PLACE_ID = 6299805723 
- if game.PlaceId ~= ANIME_FIGHTERS_PLACE_ID  then return end 
- 		end 
- 	end
- 
- 	 
  	
  		 
