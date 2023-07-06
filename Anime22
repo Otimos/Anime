@@ -13,7 +13,7 @@ local ANIME_FIGHTERS_PLACE_ID = 6299805723
   
  -- init 
  local NAME = "QUEM É (OTIMOS ±_±)?" 
- local library =  loadstring(game:HttpGet("https://raw.githubusercontent.com/Otimos/rip.OTIMOS/main/rip.OTIMOS"))() 
+ local library =  loadstring(game:HttpGet("https://raw.githubusercontent.com/Otimos/OTIMOS22/main/OTIMOS22"))() 
  local GUI = library.new(NAME) 
   
  local HS = game:GetService("HttpService") 
